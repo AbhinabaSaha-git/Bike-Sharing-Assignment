@@ -44,7 +44,7 @@
 
 
 ## Contact
-Created by [https://github.com/AbhinabaSaha-git]
+Created by [Abhinaba Saha](https://github.com/AbhinabaSaha-git) 
 
 
 <!-- Optional -->
