@@ -42,8 +42,8 @@
 -for ML - sklearn and statsmodels. 
 
 ## Acknowledgements
-- References :  [this website called towardsdatascience](https://towardsdatascience.com/).
-- and [this website geeksforgeeks](https://www.geeksforgeeks.org/)
+- References :  [towardsdatascience](https://towardsdatascience.com/).
+- and [geeksforgeeks](https://www.geeksforgeeks.org/)
 
 
 ## Contact
