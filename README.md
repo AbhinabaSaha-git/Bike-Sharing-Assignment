@@ -36,16 +36,15 @@
 
 ## Technologies Used
 - used language python.
-- Modules: numpy,pandasmatplotlib,seaborn
+- Modules: numpy, pandas, matplotlib, seaborn
 - for ML - sklearn and statsmodels. 
 
 ## Acknowledgements
-- References :  [towardsdatascience](https://towardsdatascience.com/).
-- and [geeksforgeeks](https://www.geeksforgeeks.org/)
+- References :  [towardsdatascience](https://towardsdatascience.com/) and [geeksforgeeks](https://www.geeksforgeeks.org/)
 
 
 ## Contact
-Created by [@AbhinabaSaha-git] - feel free to contact me!
+Created by [https://github.com/AbhinabaSaha-git]
 
 
 <!-- Optional -->
