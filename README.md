@@ -35,9 +35,9 @@
 
 
 ## Technologies Used
--used language python.
--Modules: numpy,pandasmatplotlib,seaborn
--for ML - sklearn and statsmodels. 
+- used language python.
+- Modules: numpy,pandasmatplotlib,seaborn
+- for ML - sklearn and statsmodels. 
 
 ## Acknowledgements
 - References :  [towardsdatascience](https://towardsdatascience.com/).
