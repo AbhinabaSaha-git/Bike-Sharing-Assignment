@@ -1,6 +1,5 @@
-# Project Name
-> Bike Sharing assignment
-> Business objective: The objective is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
+# Bike Sharing assignment
+>The objective is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
 
 
 ## Table of Contents
