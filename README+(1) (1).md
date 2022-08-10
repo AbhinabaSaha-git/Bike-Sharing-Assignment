@@ -1,5 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
+> Bike Sharing assignment
+> Business objective: The objective is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
 
 
 ## Table of Contents
@@ -11,38 +12,38 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- A bike-sharing system in which bikes are made available for shared use to individuals on a short term basis for a price or free. It allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+- The objective is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. ![image](https://user-images.githubusercontent.com/85924580/183985377-e0e7517a-debc-45b2-8502-b4dd60397373.png)
+- day.csv is the dataset used
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+### Created a linear model that describes the effect of various features on demand.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+##### below variables are significant in predicting the demand for shared bikes
+
+- yr
+- holiday
+- workingday
+- temp
+- x0_2 (summer)
+- x0_4 (Winter)
+- x1_9 (September)
+- x3_3 (weathersit:Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds)
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+used language python.
+Modules: numpy,pandasmatplotlib,seaborn
+for ML - sklearn and statsmodels. 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- References :  [this tutorial](https://towardsdatascience.com/).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@AbhinabaSaha-git] - feel free to contact me!
 
 
 <!-- Optional -->
