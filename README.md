@@ -31,14 +31,19 @@
 - x1_9 (September)
 - x3_3 (weathersit:Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds)
 
+-R2 Score compare:
+-R2 Score for Train data set is : 0.794
+-R2 Score for Test data set is : 0.777
+
 
 ## Technologies Used
-used language python.
-Modules: numpy,pandasmatplotlib,seaborn
-for ML - sklearn and statsmodels. 
+-used language python.
+-Modules: numpy,pandasmatplotlib,seaborn
+-for ML - sklearn and statsmodels. 
 
 ## Acknowledgements
-- References :  [this tutorial](https://towardsdatascience.com/).
+- References :  [this website called towardsdatascience](https://towardsdatascience.com/).
+- and [this website geeksforgeeks](https://www.geeksforgeeks.org/)
 
 
 ## Contact
